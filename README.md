@@ -12,18 +12,18 @@ Me chamo Carlos Eduardo Souza, tenho 19 anos e sou natural de Anápolis (GO). At
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Instagram&logo=instagram&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/carloseduardolsouza">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/carloseduardolsouza?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/carloseduardolsouza?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/carloseduardolsouza?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -75,7 +75,7 @@ Me chamo Carlos Eduardo Souza, tenho 19 anos e sou natural de Anápolis (GO). At
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px; margin-bottom: 10px;" 
+    style="padding-right: 10px; margin-bottom: 10px; max-width: 400px" 
     src="https://github-readme-stats.vercel.app/api?username=carloseduardolsouza&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
