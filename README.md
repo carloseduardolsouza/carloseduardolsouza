@@ -5,11 +5,11 @@
 Me chamo Carlos Eduardo Souza, tenho 19 anos e sou natural de Anápolis (GO). Atualmente, estou cursando Engenharia de Software na UniEvangelica. Sou apaixonado por tecnologia.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.instagram.com/c.souza___/">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            alt="Meu Instagram" 
+            title="Me siga no instagram" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Instagram&logo=instagram&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
@@ -75,15 +75,15 @@ Me chamo Carlos Eduardo Souza, tenho 19 anos e sou natural de Anápolis (GO). At
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=carloseduardolsouza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    style="padding-right: 10px; margin-bottom: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=carloseduardolsouza&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardolsouza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardolsouza&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
