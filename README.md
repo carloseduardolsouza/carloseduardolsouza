@@ -2,15 +2,17 @@
 
 **`Desenvolvedor FrontEnd`**
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem+Vindo(a)+ao+meu+repositorio" alt="Typing SVG" /></a>
+
 Me chamo Carlos Eduardo Souza, tenho 19 anos e sou natural de Anápolis (GO). Atualmente, estou cursando Engenharia de Software na UniEvangelica. Sou apaixonado por tecnologia.
 
 <p align="left">
-    <a href="https://www.instagram.com/c.souza___/">
-        <img 
-            alt="Meu Instagram" 
-            title="Me siga no instagram" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Instagram&logo=instagram&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
+    <a href="https://www.instagram.com/c.souza___/" target="_blank" rel="noopener noreferrer">
+    <img 
+        alt="Instagram Followers" 
+        title="Me siga no Instagram" 
+        src="https://img.shields.io/badge/Instagram-151-d15297?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13581"
+    />
     </a>
     <a href="https://github.com/carloseduardolsouza">
         <img 
