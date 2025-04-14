@@ -75,15 +75,15 @@ Me chamo Carlos Eduardo Souza, tenho 19 anos e sou natural de Anápolis (GO). At
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px; margin-bottom: 10px; max-width: 400px" 
-    src="https://github-readme-stats.vercel.app/api?username=carloseduardolsouza&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    style="padding-right: 10px; margin: 10px; max-width: 400px" 
+    src="https://github-readme-stats.vercel.app/api?username=carloseduardolsouza&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardolsouza&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardolsouza&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
