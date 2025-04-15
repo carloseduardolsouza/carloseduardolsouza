@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Carlos Eduardo Souza
+# 👨‍💻 Carlos Eduardo Souza
 
 **`Desenvolvedor FrontEnd`**
 
