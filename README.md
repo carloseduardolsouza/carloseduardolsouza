@@ -102,6 +102,8 @@ Me chamo Carlos Eduardo Souza, tenho 19 anos e sou natural de Anápolis (GO). At
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
