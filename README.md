@@ -7,11 +7,11 @@
 Me chamo Carlos Eduardo Souza, tenho 19 anos e sou natural de Anápolis (GO). Atualmente, estou cursando Engenharia de Software na UniEvangelica. Sou apaixonado por tecnologia.
 
 <p align="left">
-    <a href="https://www.instagram.com/c.souza___/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.instagram.com/carlossouza.dev__/" target="_blank" rel="noopener noreferrer">
     <img 
         alt="Instagram Followers" 
         title="Me siga no Instagram" 
-        src="https://img.shields.io/badge/Instagram-151-d15297?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13581"
+        src="https://img.shields.io/badge/Instagram-10k-d15297?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13581"
     />
     </a>
     <a href="https://github.com/carloseduardolsouza">
