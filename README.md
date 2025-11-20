@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Bem+Vindo(a)+ao+meu+repositorio" alt="Typing SVG" /></a>
 
-Me chamo Carlos Eduardo Souza, tenho 19 anos e sou natural de Anápolis (GO). Atualmente, estou cursando Engenharia de Software na UniEvangelica. Sou apaixonado por tecnologia.
+Me chamo Carlos Eduardo Souza, tenho 20 anos e sou natural de Anápolis (GO). Atualmente, estou cursando Engenharia de Software na UniEvangelica. Sou apaixonado por tecnologia.
 
 <p align="left">
     <a href="https://www.instagram.com/carlossouza.dev__/" target="_blank" rel="noopener noreferrer">
