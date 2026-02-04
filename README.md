@@ -64,24 +64,6 @@ Atualmente curso **Engenharia de Software na UniEVANGÉLICA** e sou completament
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-
-<img 
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=carloseduardolsouza&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
-/>
-
-<img 
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardolsouza&layout=compact&theme=radical&custom_title=Tecnologias"
-/>
-
-</div>
-
----
-
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de Engenharia de Software
@@ -90,5 +72,3 @@ Atualmente curso **Engenharia de Software na UniEVANGÉLICA** e sou completament
 - 🎯 Sempre buscando evoluir e criar projetos cada vez melhores
 
 Sinta-se à vontade para explorar meus repositórios!
-
-![Snake animation](https://github.com/carloseduardolsouza/carloseduardolsouza/blob/output/github-contribution-grid-snake.svg)
