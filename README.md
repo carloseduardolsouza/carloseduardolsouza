@@ -90,3 +90,5 @@ Atualmente curso **Engenharia de Software na UniEVANGÉLICA** e sou completament
 - 🎯 Sempre buscando evoluir e criar projetos cada vez melhores
 
 Sinta-se à vontade para explorar meus repositórios!
+
+![Snake animation](https://github.com/carloseduardolsouza/carloseduardolsouza/blob/output/github-contribution-grid-snake.svg)
