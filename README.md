@@ -50,9 +50,15 @@ Atualmente curso **Engenharia de Software na UniEVANGÉLICA** e sou completament
 <img width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img width="40" title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img width="40" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img width="40" title="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-<img width="40" title="Premiere Pro" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
+<img width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img width="40" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+<img width="40" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img width="40" title="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+          
+          
+          
+          
 
 </div>
 
@@ -78,9 +84,9 @@ Atualmente curso **Engenharia de Software na UniEVANGÉLICA** e sou completament
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de Engenharia de Software  
-- 💻 Desenvolvedor Front-End  
-- 🔥 Entusiasta de tecnologia, design e inovação  
-- 🎯 Sempre buscando evoluir e criar projetos cada vez melhores  
+- 🎓 Estudante de Engenharia de Software
+- 💻 Desenvolvedor Front-End
+- 🔥 Entusiasta de tecnologia, design e inovação
+- 🎯 Sempre buscando evoluir e criar projetos cada vez melhores
 
 Sinta-se à vontade para explorar meus repositórios!
