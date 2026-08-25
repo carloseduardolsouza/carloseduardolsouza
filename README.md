@@ -83,39 +83,6 @@ const carlos = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carloseduardolsouza&show_icons=true&count_private=true&hide_border=true&title_color=1E3A8A&icon_color=1E3A8A&text_color=c9d1d9&bg_color=0d1117" alt="Carlos Eduardo github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardolsouza&layout=compact&hide_border=true&title_color=1E3A8A&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=carloseduardolsouza&hide_border=true&background=0d1117&stroke=1E3A8A&ring=1E3A8A&fire=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1E3A8A&sideLabels=1E3A8A&dates=c9d1d9" alt="Carlos Eduardo streak stats"/>
-</div>
-
----
-
-## 🐍 Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carloseduardolsouza/carloseduardolsouza/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carloseduardolsouza/carloseduardolsouza/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carloseduardolsouza/carloseduardolsouza/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 📈 Atividade Recente
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carloseduardolsouza&custom_title=Gráfico%20de%20Contribuições&bg_color=0d1117&color=1E3A8A&line=1E3A8A&point=FFFFFF&area_color=1E3A8A&title_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
 <div align="center">
 
 ### 💙 Obrigado pela visita!
